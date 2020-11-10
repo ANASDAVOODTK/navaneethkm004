@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Pokemon Bot**
 
-- 🤝 I’m looking for help with **making a bot database**
+- 🤝 I’m looking for help with **making a bot dashboard**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thedexterwhiz](https://github.com/thedexterwhiz)
 
