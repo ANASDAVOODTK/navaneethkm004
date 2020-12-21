@@ -6,13 +6,13 @@
 ### <div align="center">I'm Navaneeth, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [LynX](https://lynxbot.gq).  
+- 🔭 I’m currently working on a music app.  
   
 
 - 🌱 I’m currently learning JavaScript and Java.  
   
 
-- ❓ You can hire me as a developer for your Discord bots and websites.  
+- ❓ I'm a dumb dev so don't ask me to do this and that.
   
 
 - ⚡ Fun fact: I open a lot of tabs in my browser so that my browser crashes every 10-15 mins.  
@@ -75,13 +75,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/thedexterwhiz" target="_blank">
+<a href="https://github.com/navaneethkm004" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/navaneethkm004" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/thedexterwhiz" target="_blank">
+<a href="https://dev.to/navaneethkm" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/14627873/navaneeth-k-m" target="_blank">
@@ -94,7 +94,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thedexterwhiz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -109,7 +109,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thedexterwhiz&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=navaneethkm004&&style=flat-square" align="center" />
 </div>  
   
 
