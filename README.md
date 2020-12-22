@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Navaneeth, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Navaneeth, a full-time full-stack developer 👨‍💻 working peacefully since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on a music app.  
