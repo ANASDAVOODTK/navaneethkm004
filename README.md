@@ -123,3 +123,4 @@
                 />
             </a></div>
 <br />
+![GitHub metrics](https://metrics.lecoq.io/navaneethkm004?template=terminal&pagespeed=1&languages=1&followup=1&isocalendar=1&gists=1&pagespeed.detailed=true&isocalendar.duration=full-year)
