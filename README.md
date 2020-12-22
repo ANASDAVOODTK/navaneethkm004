@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning JavaScript and Java.  
   
 
-- ❓ I'm a dumb dev so don't ask me to do this and that.
+- ❓  I'm a dumb dev so don't ask me to do this and that.
   
 
 - ⚡ Fun fact: I open a lot of tabs in my browser so that my browser crashes every 10-15 mins.  
