@@ -96,13 +96,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/> 
+<br/>  
 
 <div align="center">
-<a href="https://github.com/navaneethkm004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&theme=light&hide_langs_below=1" />
-<br/>
- </div>
+<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&langs_count=10" alt="Top Langs" /></a></p>
+</div>  
   
 ## Social
   
@@ -110,12 +108,6 @@
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=317lvyjb73g72kb5u3xqf5gruoti&redirect=true] https://spotify-github-profile.vercel.app/api/view.svg?uid=317lvyjb73g72kb5u3xqf5gruoti&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&langs_count=10" alt="Top Langs" /></a></p>
-</div>  
   
 
 <br/>  
