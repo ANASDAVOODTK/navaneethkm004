@@ -97,8 +97,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
+<a href="https://github.com/navaneethkm004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&theme=dark&hide_langs_below=1" />
+<br/>
 ## Social
   
 
