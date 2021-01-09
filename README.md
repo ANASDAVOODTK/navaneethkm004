@@ -100,7 +100,7 @@
 
 <div align="center">
 <a href="https://github.com/navaneethkm004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&theme=light&hide_langs_below=1" />
 <br/>
  </div>
   
