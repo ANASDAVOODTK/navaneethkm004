@@ -114,7 +114,7 @@
 <br/>  
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&langs_count=8)](https://github.com/navaneethkm004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&langs_count=10)](https://github.com/navaneethkm004)
 </div>  
   
 
