@@ -101,6 +101,21 @@
 <div align="center">
 <p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
+## Projects  
+You must checkout these projects!!<br/>
+[![Discord-Gamebuay](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Discord-Gamebuay&theme=dark)](https://github.com/navaneethkm004/Discord-Gamebuay)
+[![distube-music-bot](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=distube-music-bot&theme=dark)](https://github.com/navaneethkm004/distube-music-bot)
+[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v2&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)
+[![discord-youtube-to-mp3](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=discord-youtube-to-mp3&theme=dark)](https://github.com/navaneethkm004/discord-youtube-to-mp3)
+[![discord-24x7-music](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=discord-24x7-music&theme=dark)](https://github.com/navaneethkm004/discord-24x7-music)
+[![mc-server](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=mc-server&theme=dark)](https://github.com/navaneethkm004/mc-server)
+[![mc-server-gui](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=mc-server-gui&theme=dark)](https://github.com/navaneethkm004/mc-server-gui)
+[![torrent-to-google-drive](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=torrent-to-google-drive&theme=dark)](https://github.com/navaneethkm004/torrent-to-google-drive)
+[![private-browsing](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=private-browsing&theme=dark)](https://github.com/navaneethkm004/private-browsing)
+[![warp-plus](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=warp-plus&theme=dark)](https://github.com/navaneethkm004/warp-plus)
+[![Discord-Token-Validator](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Discord-Token-Validator&theme=dark)](https://github.com/navaneethkm004/Discord-Token-Validator)
+[![Muco](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Muco&theme=dark)](https://github.com/navaneethkm004/Muco)
+  
 ## Social
   
 
